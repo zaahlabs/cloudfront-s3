@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # s3 basic authentication
 version 1.0
 
@@ -28,3 +29,7 @@ version 1.0
 ### Push changes
 
 
+=======
+# cloudfront-s3
+Cloudfront distribution with S3 origin
+>>>>>>> db0840f8f660928e9dc2479c87d5dc5a6aabb6da
